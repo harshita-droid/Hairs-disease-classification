@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "Hairs-disease-classification"
 AUTHOR_USER_NAME = "harshita-droid"
-SRC_REPO = "hair-classification"
+SRC_REPO = "Cnnclassifier"
 AUTHOR_EMAIL = "harshitaj938@gmail.com"
 
 
