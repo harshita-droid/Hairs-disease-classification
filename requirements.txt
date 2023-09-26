@@ -1,0 +1,14 @@
+tensorflow
+pandas
+pyYAML
+numpy
+pandas
+opencv-python
+pathlib
+pillow
+tqdm
+scikit-learn
+joblib
+flask
+flask-core
+-e .
